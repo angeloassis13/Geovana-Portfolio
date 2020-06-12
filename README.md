@@ -12,7 +12,7 @@ Repositório contendo um portfólio de *Data Science Projects* realizados para f
 
 ## Projetos:
 
-* **[Análise dos dados do Airbnb - Toronto](https://bit.ly/2AUrJhU)**: 
+* **[Análise dos dados do Airbnb - Toronto](https://bit.ly/2XTOmf9)**: 
 A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar *outliers* e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do *dataset* obtivemos *insights* importantes para alguém que tem a intenção de visitar a cidade. 
 
 

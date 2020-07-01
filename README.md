@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/XBPbfSs" >
+  <img src="https://i.imgur.com/XBPbfSs.png" >
 </p>
 
 # Geovana Sousa

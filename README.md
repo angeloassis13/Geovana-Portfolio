@@ -16,5 +16,8 @@ Repositório contendo um portfólio de *Data Science Projects* realizados para f
 A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar *outliers* e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do *dataset* obtivemos *insights* importantes para alguém que tem a intenção de visitar a cidade. 
 
 
-
----
+## Mini-Projetos para Aprendizado:
+Projetos desenvolvidos para o aprimoramento de habilidades em *Data Science*
+  
+  * **[2 Técnicas para lidar com valores ausentes utilizando o Pandas](https://bit.ly/2BgO61B)**: 
+  Como utilizar métodos do Pandas para limpar *datasets* com valores faltantes.

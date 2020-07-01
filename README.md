@@ -19,5 +19,5 @@ A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória 
 ## Mini-Projetos para Aprendizado:
 Projetos desenvolvidos para o aprimoramento de habilidades em *Data Science*
   
-  * **[2 Técnicas para lidar com valores ausentes utilizando o Pandas](https://bit.ly/2BgO61B)**: 
+  * **[2 Técnicas para lidar com valores ausentes utilizando o Pandas](https://bit.ly/3geVrxn)**: 
   Como utilizar métodos do Pandas para limpar *datasets* com valores faltantes.

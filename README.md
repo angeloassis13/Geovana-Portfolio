@@ -19,5 +19,8 @@ A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória 
 ## Mini-Projetos para Aprendizado:
 Projetos desenvolvidos para o aprimoramento de habilidades em *Data Science*
   
-  * **[2 Técnicas para lidar com valores ausentes utilizando o Pandas](https://bit.ly/3geVrxn)**: 
-  Como utilizar métodos do Pandas para limpar *datasets* com valores faltantes.
+* **[2 Técnicas para lidar com valores ausentes utilizando o Pandas](https://bit.ly/3geVrxn)**: 
+Como utilizar métodos do Pandas para limpar *datasets* com valores faltantes.
+
+* **[*Bootcamp* IGTI: Analista de *Machine Learning* - Projeto Prático 1 - Fundamentos](https://bit.ly/32oqHq8)**:
+Primeiro projeto na jornada de aprendizado das técnicas de *Machine Learning*

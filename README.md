@@ -24,3 +24,5 @@ Como utilizar métodos do Pandas para limpar *datasets* com valores faltantes.
 
 * **[*Bootcamp* IGTI: Analista de *Machine Learning* - Projeto Prático 1 - Fundamentos](https://bit.ly/2ZL5gxs)**:
 Primeiro projeto na jornada de aprendizado das técnicas de *Machine Learning*
+
+* **[*Bootcamp* IGTI: Analista de *Machine Learning* - Desafio 1 - Fundamentos](https://bit.ly/2EuNIxB)**: Primeiro desafio na jornada de aprendizado das técnicas de *Machine Learning*
